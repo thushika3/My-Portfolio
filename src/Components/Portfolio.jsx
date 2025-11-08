@@ -31,29 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Student Management System",
+    description: "Frontend + APIs for student records, marks calculation and dashboards.",
+    url: "https://github.com/thushika3/Student_Marks_Calculation_System"
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Weather_Forecast_Website",
+    description: "Weather app with favorites and clean UI using public APIs.",
+    url: "https://github.com/thushika3/Weather_Forecast_Website"
   },
   {
     title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+    description: "Static portfolio built with React and deployed on GitHub Pages.",
+    url: "https://github.com/thushika/thushika-portfolio"
+  }
 ];
 
 const Portfolio = () => {
