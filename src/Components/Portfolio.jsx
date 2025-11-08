@@ -41,9 +41,14 @@ const projectList = [
     url: "https://github.com/thushika3/Weather_Forecast_Website"
   },
   {
+    title: "Task Manager",
+    description: "Task manager app with create/read/update/delete, drag-and-drop reordering, filters, and localStorage persistence.",
+    url: "https://github.com/thushika3/Task-Manager"
+  },
+  {
     title: "My Resume Site",
     description: "Static portfolio built with React and deployed on GitHub Pages.",
-    url: "https://github.com/thushika/thushika-portfolio"
+    url: "https://github.com/thushika3/My-Portfolio",
   }
 ];
 

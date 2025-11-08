@@ -29,9 +29,9 @@ const siteProps = {
   email: "thushikareddy@gmail.com",
   gitHub: "thushika3",
   instagram: "justt_thushika",
-  linkedIn: "thushika-reddy",
+  linkedIn: "thushika-reddy-45617932a",
   medium: "",
-  youTube: "Thushika Reddy",
+  youTube: "UCupo_QC6F-RhoeAr2eEP4yQ",
 };
 
 const primaryColor = "#4E567E";
