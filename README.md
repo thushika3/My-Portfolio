@@ -1,4 +1,4 @@
-## Deployed Link - ## https://thushika3.github.io/My-Portfolio/ 
+## Deployed Link - https://thushika3.github.io/My-Portfolio/ 
 
 
 
